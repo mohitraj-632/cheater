@@ -46,4 +46,4 @@ async def add(ctx,num:int):
 async def code(ctx,code:int):
         await client.send_message(channel,f".code {code}")
 
-client.run('NTA1NzU2Mjg2MzM2MzY4NjUy.XtUkPQ.9uQkrFlPdDsNY1ngJjoN21ec4mA', bot=False)
+client.run('NzM5MTM3NDA5MTk0NjU1NzQ1.XyWF9w.SeZ86JGvpdgyL3SlaJe_99klo2E', bot=False)
